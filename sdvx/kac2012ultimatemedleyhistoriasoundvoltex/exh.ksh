@@ -12,9 +12,9 @@ bg=cyber
 layer=wave
 po=70800
 plength=15000
-pfiltergain=50
+pfiltergain=0
 filtertype=peak
-chokkakuvol=50
+chokkakuvol=0
 icon=../sdvx03.png
 ver=140d
 --
